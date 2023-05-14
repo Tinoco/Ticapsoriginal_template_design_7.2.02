@@ -26,7 +26,7 @@ Ticapsoriginal Template of 7.2.02
 
 ## preview 
 
-![](https://ticapsoriginal.com/static/ticapsdesign7_2_02.png)
+![](https://api.pikwy.com/web/646035fc0bafb07a91466486.jpg)
 
 * [`0% code plagiarism detected`](https://github.com/blingenf/copydetect)
 * code and resource for [`Ticapsoriginal`](https://ticapsoriginal.com) 7.2.02 version
